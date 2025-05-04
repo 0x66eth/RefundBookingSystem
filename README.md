@@ -2,7 +2,7 @@
 ## Clone
 
 ```
-   git clone https://bitbucket.org/product66/cloudrefundsystem.git
+   git clone https://github.com/0x66eth/RefundBookingSystem.git
 ```
 ## Switch to node version 18
 
