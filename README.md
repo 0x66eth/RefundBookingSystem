@@ -4,11 +4,7 @@
 ```
    git clone https://github.com/0x66eth/RefundBookingSystem.git
 ```
-## Switch to node version 18
 
-```
-   nvm use 18 
-```
 ## Install dependencies
 
 ```
